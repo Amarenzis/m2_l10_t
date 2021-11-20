@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Task1_Tower"
         mc:Ignorable="d"
-        Title="Pisa Tower" Height="700" Width="600" Background="#FFCCC8FA"
+        Title="Pisa Tower" Height="700" Width="600" Background="#FFDBD8FF"
         ResizeMode="NoResize">
     <StackPanel>
         <Border BorderBrush="White" BorderThickness="5"
